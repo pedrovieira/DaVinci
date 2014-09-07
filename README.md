@@ -50,7 +50,7 @@ NSString *originalString = [DaVinci retrieveStringFromPNGData:pngData];
 
 OS X 10.7+ or iOS 5.0+.
 
-## Features To Be Add (Possibly)
+## Features To Be Added (Possibly)
 
 * Encode the original message encoded using `AES-256` and embed it inside the PNG
 * Use another image (from the web or so) to store a message and `DaVinci` will be return a string of coordinates that can be used (later on via `DaVinci`) to retrieve the message.
