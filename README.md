@@ -11,7 +11,7 @@ With the following, well-known, Apple-y text:
 
 
 `DaVinci` will generate the PNG image below:
-![Alamofire: Elegant Networking in Swift](http://s30.postimg.org/wxbfqj91t/example.png)
+![DaVinci Example](images/example.png)
 
 
 ## How Does It Work (encoding)
